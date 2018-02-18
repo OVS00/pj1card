@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="top_space">24dp</dimen>
+    <dimen name="lateral_space">12dp</dimen>
+    <dimen name="title_size">36sp</dimen>
+    <dimen name="text_size">18sp</dimen>
+    /* extra - reduces spaces between the lines in register_with style/
+    <dimen name="extra">-2dp</dimen>
+</resources>

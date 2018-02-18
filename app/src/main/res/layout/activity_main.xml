@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/LLmax">
+
+    <ImageView
+        style="@style/img1"
+        android:src="@drawable/flc3" />
+
+    <TextView
+        style="@style/title"
+        android:text="@string/title" />
+
+    <LinearLayout style="@style/LLMiddle">
+
+        <LinearLayout style="@style/LLRegister">
+
+            <TextView
+                style="@style/register_with"
+                android:text="@string/register_with" />
+
+            <TextView
+                style="@style/hex1"
+                android:text="@string/hex" />
+        </LinearLayout>
+
+        <ImageView
+            style="@style/img2"
+            android:src="@drawable/flc5" />
+    </LinearLayout>
+
+    <TextView
+        style="@style/virtexp"
+        android:text="@string/virtual_experience_demo" />
+
+    <TextView
+        style="@style/hex2"
+        android:text="@string/hex2" />
+
+    <TextView
+        style="@style/directive"
+        android:text="@string/directive" />
+</LinearLayout>
